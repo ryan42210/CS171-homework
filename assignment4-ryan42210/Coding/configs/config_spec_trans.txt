@@ -1,0 +1,8 @@
+output_resolution   512
+output_file         ./output_cbox_spec_trans.png
+camera_id           1
+light_id            1
+delta_mat           true
+spp                 16384
+max_depth           5
+integral_method     mis

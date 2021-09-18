@@ -1,0 +1,3 @@
+#define PI 3.1415926535897932f
+#define DELTA 0.0001f
+#define LIGHT_SAMPLE 16

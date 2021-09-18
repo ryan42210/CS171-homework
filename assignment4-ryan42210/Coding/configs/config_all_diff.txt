@@ -1,0 +1,9 @@
+output_resolution   512
+output_file         ../../images/diff_corr.png
+camera_id           1
+light_id            1
+delta_mat           false
+spp                 2048
+max_depth           5
+integral_method     mis
+num_threads         16

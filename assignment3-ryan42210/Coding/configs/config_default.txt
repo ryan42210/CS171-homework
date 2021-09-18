@@ -1,0 +1,7 @@
+output_resolution   1024
+output_file         ../../images/temp.png
+camera_id           1
+light_id            1
+num_threads         16
+num_samples         1
+scene_id            3
